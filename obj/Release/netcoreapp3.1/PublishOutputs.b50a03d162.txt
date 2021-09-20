@@ -1,0 +1,33 @@
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\licznik punktow do tysiaca consola.exe
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\licznik punktow do tysiaca consola.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\licznik punktow do tysiaca consola.deps.json
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\licznik punktow do tysiaca consola.runtimeconfig.json
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\licznik punktow do tysiaca consola.pdb
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Drawing.Common.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Private.ServiceModel.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Reflection.DispatchProxy.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Security.Cryptography.Pkcs.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Security.Cryptography.Xml.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Security.Permissions.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.ServiceModel.Http.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.ServiceModel.NetTcp.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.ServiceModel.Primitives.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.ServiceModel.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.ServiceModel.Security.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Text.Encodings.Web.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Text.Json.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\System.Windows.Extensions.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\VisioForge.Controls.UI.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\VisioForge.Controls.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\VisioForge.MediaFramework.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\VisioForge.Shared.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\VisioForge.Tools.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\VisioForge.Types.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\marek\source\repos\licznik punktow do tysiaca consola\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
