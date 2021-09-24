@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bfGmqJJa7QZVxL46FrwjSEdNwqVPhwAcW38Um8iwu5zzB+ncVvXg9k5k75UK4F6QB8dhEox6cGE+P6wHetF5Tw==",
+  "dgSpecHash": "Ig+yFHHIMpoq64TSJwCK+knIxb9jOQ1EgucwdXbLmKAqxIUhznTds5GWorfCDiigQfxSklD/+fMHowa2EoNRQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marek\\source\\repos\\licznik punktow do tysiaca consola\\licznik punktow do tysiaca consola.csproj",
+  "projectFilePath": "C:\\Users\\marek\\Desktop\\git_licznik\\licznik punktow do tysiaca consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marek\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\marek\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
@@ -24,8 +24,7 @@
     "C:\\Users\\marek\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
     "C:\\Users\\marek\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
     "C:\\Users\\marek\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\marek\\.nuget\\packages\\visioforge.dotnet.core.trial\\14.3.1\\visioforge.dotnet.core.trial.14.3.1.nupkg.sha512",
-    "C:\\Users\\marek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\marek\\.nuget\\packages\\visioforge.dotnet.core.trial\\14.3.1\\visioforge.dotnet.core.trial.14.3.1.nupkg.sha512"
   ],
   "logs": []
 }
