@@ -1154,9 +1154,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marek\\Desktop\\git_licznik\\licznik punktow do tysiaca consola.csproj",
-      "projectName": "licznik punktow do tysiaca consola",
-      "projectPath": "C:\\Users\\marek\\Desktop\\git_licznik\\licznik punktow do tysiaca consola.csproj",
+      "projectUniqueName": "C:\\Users\\marek\\Desktop\\git_licznik\\licznik_punktow_do_tysiaca_consola.csproj",
+      "projectName": "licznik_punktow_do_tysiaca_consola",
+      "projectPath": "C:\\Users\\marek\\Desktop\\git_licznik\\licznik_punktow_do_tysiaca_consola.csproj",
       "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marek\\Desktop\\git_licznik\\obj\\",
       "projectStyle": "PackageReference",

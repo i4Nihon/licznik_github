@@ -24,28 +24,7 @@ namespace licznik_punktow_do_tysiaca_consola.Klasy
     }
 
 
-    public void Saver()
-    {
-      for (int j = 0; j < licznik.tablica.Length; j++)
-      {
-        Console.WriteLine(licznik.tablica[j]);
-        CheckDir();
-        string date = $"{DateTime.Now}";
-        string[] splitedDate = date.Split(":");
-        string filePath = @$"{System.Environment.GetEnvironmentVariable("USERPROFILE")}\licznik_pkt_do_tysiaca\zapiska {splitedDate[0] + "; " + splitedDate[1]}.txt";
-        File.AppendAllText(filePath, licznik.tablica[j] + "\n");
-      }
-    }
 
-
-    public void CheckDir()
-    {
-      string dirPath = @$"{System.Environment.GetEnvironmentVariable("USERPROFILE")}\licznik_pkt_do_tysiaca";
-      if (!Directory.Exists(dirPath))
-      {
-        Directory.CreateDirectory(dirPath);
-      }
-    }
 
 
   }
